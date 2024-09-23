@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a project about trivia app<br>I am interested in web deverlopment ,mobile app development And Artificial intelligence<br>I am currently learning about fullstack web development
+<br>I am interested in web deverlopment ,mobile app development And Artificial intelligence<br>I am currently learning about fullstack web development
 
 
 ## 🌐 Socials:
