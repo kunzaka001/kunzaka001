@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am interested in web deverlopment ,mobile app development And Artificial intelligence<br>I am currently learning about fullstack web development
+<br>I am interested in web deverlopment ,mobile app development and Artificial intelligence<br>I am currently learning about fullstack web development and Data-sci
 
 
 ## 🌐 Socials:
