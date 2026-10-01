@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am interested in Web development, Artificial intelligence, Quantum Computing<br>I am currently learning about Data-sci/ML and fullstack web development. 
+<br>I am interests in Artificial intelligence, Software development, Quantum Computing<br>I am currently learning about Data-sci/ML/DL. 
 
 
 ## 🌐 Socials:
